@@ -7,3 +7,5 @@ My name is **Najam**.
 - 💬 **Ask me about:** Python and C++
 - 📫 **How to reach me:** [mirpince120@gmail.com](mailto:mirpince120@gmail.com)
 - ⚡ **Fun fact:** My email is *childish* 😄
+
+🌟 **"Exploring the limitless possibilities of AI, one project at a time."** 🚀
