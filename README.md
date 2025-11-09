@@ -1,7 +1,5 @@
 # Hello everyone! 👋
 
-My name is **Noah**.
-
 - 🌱 **I’m currently learning:** DSA
 - 💬 **Ask me about:** Python and C++  
 - 📫 **How to reach me:** *Don't reach me*  **(YET)**
