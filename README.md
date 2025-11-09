@@ -1,6 +1,6 @@
 # Hello everyone! 👋
 
-My name is **Najam**.
+My name is **Noah**.
 
 - 🌱 **I’m currently learning:** DSA
 - 💬 **Ask me about:** Python and C++  
