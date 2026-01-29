@@ -3,7 +3,7 @@
 - 🌱 **I’m currently learning:** DSA
 - 💬 **Ask me about:** Python and C++  
 - 📫 **How to reach me:** *Don't reach me*  **(YET)**
-- 💬 **Spam account:** [SpamDoodlePP](https://github.com/SpamDoodlePP) `++`  
+- 💬 **Spam account:** [SpamDoodle](https://github.com/SpamDoodlePP) `++`  
 ---
 
 ### 🏆 My Coding Profiles
